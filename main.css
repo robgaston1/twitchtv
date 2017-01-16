@@ -3,17 +3,17 @@ body {
 }
 
 h3 {
-  padding: 0px 0px 25px 0px;
-}
-
-.userArea .col-md-3 {
-  border-style: solid;
-  border-width: 2px;
-  height: 30px;
- 
+  padding: 0px 0px 25px 0px
 }
 
 .title-bar {
-  background-color: #cc66ff;
-  font-weight: bold;
+    background-color: #cc66ff;
+    font-weight: bold;
+    border: 2px solid black;
+    font-size: 18px;
+}
+
+.invalid {
+    width: 450px;
+    margin: 50px auto;
 }
